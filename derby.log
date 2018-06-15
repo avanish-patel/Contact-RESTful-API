@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 05 14:43:07 CDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-31d4-4d04-00000dff1930 
+on database directory memory:/Users/avanish/Documents/workspace-sts-3.9.2.RELEASE/Contact-RESTful-API/testdb with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/Users/avanish/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/avanish/Documents/workspace-sts-3.9.2.RELEASE/Contact-RESTful-API
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
